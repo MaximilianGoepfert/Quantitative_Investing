@@ -23,3 +23,4 @@ __Idiosyncratic Momentum__: https://alphaarchitect.com/2017/05/02/swedroe-spotli
 ## Financial Dashboard
 _Work in Progress..._
 
+Current version of the dashboard may be found at: https://public.tableau.com/app/profile/maximilian8268/viz/FinancialDashboard1_0/FBFrontpage
