@@ -23,5 +23,6 @@ __Idiosyncratic Momentum__: https://alphaarchitect.com/2017/05/02/swedroe-spotli
 ## Financial Dashboard
 _Work in Progress..._
 
-<iframe src="https://public.tableau.com/app/profile/maximilian8268/viz/FinancialDashboard1_0/FBFrontpage?publish=yes"></iframe>
-<div id="tableauViz"></div>
+<iframe src="https://public.tableau.com/app/profile/maximilian8268/viz/FinancialDashboard1_0/FBFrontpage?:embed=yes&:display_count=yes"></iframe>
+
+
