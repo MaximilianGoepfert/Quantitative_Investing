@@ -21,14 +21,14 @@ __Momentum Strategy__: https://taldavidson.com/quantitative-momentum/quantitativ
 __Idiosyncratic Momentum__: https://alphaarchitect.com/2017/05/02/swedroe-spotlight-enhancing-momentum-strategies-via-idiosyncratic-momentum/ 
 
 ## Financial Dashboard
-- Built a Tableau dashboard presenting a selection of stocks selected through our Quantitative Momentum Strategy
+- Built a Tableau dashboard presenting a selection of stocks selected through our Momentum Strategy
 - Dashboard mainly tracks the intraday movement of twenty stocks on a particular date
 - Also gives an overview over a couple of other statistics such as industry sector or market cap
 - Embedded the Momentum Strategy workbook from within GitHub
 
 ### Resources Used
 __Tableau Version__: 2020.4.10 \
-__Dasboard Logo__: <sub> https://cdn.dribbble.com/users/196252/screenshots/3120663/_98e577de78282073be3632fad0966ad60326d10c95a2223bc5_pimgpsh_fullsize_distr.jpg </sub>
+__Dasboard Logo__: <sub><sup> https://cdn.dribbble.com/users/196252/screenshots/3120663/_98e577de78282073be3632fad0966ad60326d10c95a2223bc5_pimgpsh_fullsize_distr.jpg </sup></sub>
 
 This is what a page of the dashboard looks like: <br/> <br/>
 
