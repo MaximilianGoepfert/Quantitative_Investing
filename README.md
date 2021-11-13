@@ -35,5 +35,4 @@ This is what a page of the dashboard looks like: <br/> <br/>
 ![Screenshot](https://github.com/MaximilianGoepfert/Quantitative_Investing/blob/main/FD_Screenshot.png)
 
 <br/> <br/>
-The full dashboard may be found at: https://public.tableau.com/app/profile/maximilian8268/viz/FinancialDashboard1_0/FBFrontpage
-(Link currently inactive)
+The full dashboard may be found at: https://public.tableau.com/app/profile/maximilian.goepfert/viz/FinancialDashboardv1_1/FBFrontpage?publish=yes
