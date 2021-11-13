@@ -33,6 +33,3 @@ __Dasboard Logo__: <sub><sup> https://cdn.dribbble.com/users/196252/screenshots/
 This is what a page of the dashboard looks like: <br/> <br/>
 
 ![Screenshot](https://github.com/MaximilianGoepfert/Quantitative_Investing/blob/main/FD_Screenshot.png)
-
-<br/> <br/>
-The full dashboard may be found at: https://public.tableau.com/app/profile/maximilian.goepfert/viz/FinancialDashboardv1_1/FBFrontpage?publish=yes
